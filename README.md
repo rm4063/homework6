@@ -1,4 +1,3 @@
-#### Here I go again 
 
-## yayyyyyyyyy!!!!!!
-
+This homework is on using pandas using animal csv
+ 
